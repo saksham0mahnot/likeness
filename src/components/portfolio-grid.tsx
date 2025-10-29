@@ -24,7 +24,7 @@ const projects: Project[] = [
   {
     id: 1,
     title: "Visuals Montage",
-    thumb: "/img/VISUALS.png",
+    thumb: "/visuals.png",
     href: "https://www.instagram.com/likeness.0/",
     tags: ["Montage", "Visuals"],
     category: "Commercial",
@@ -32,7 +32,7 @@ const projects: Project[] = [
   {
     id: 2,
     title: "Twitter X Edit",
-    thumb: "/img/Twitter-X.jpg",
+    thumb: "/twitter-x.jpg",
     href: "https://www.instagram.com/likeness.0/",
     tags: ["Social", "Edit"],
     category: "Social",
@@ -40,7 +40,7 @@ const projects: Project[] = [
   {
     id: 3,
     title: "Cinematic Cut",
-    thumb: "/img/bg-2.jpg",
+    thumb: "/bg-2.jpg",
     href: "https://www.instagram.com/likeness.0/",
     tags: ["Narrative", "Trailer"],
     category: "Narrative",

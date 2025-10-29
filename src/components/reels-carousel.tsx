@@ -18,9 +18,9 @@ export type Reel = {
 };
 
 const reels: Reel[] = [
-  { id: 1, title: "Cinematic Reel", thumb: "/img/VISUALS.png", tags: ["Reel", "Edit"], externalHref: "https://www.instagram.com/likeness.0/", theme: "cyan" },
-  { id: 2, title: "Branded Edits", thumb: "/img/Twitter-X.jpg", tags: ["Brand", "Social"], externalHref: "https://www.instagram.com/likeness.0/", theme: "violet" },
-  { id: 3, title: "Music Videos", thumb: "/img/bg-2.jpg", tags: ["Music", "Cut"], externalHref: "https://www.instagram.com/likeness.0/", theme: "amber" },
+  { id: 1, title: "Cinematic Reel", thumb: "/visuals.png", tags: ["Reel", "Edit"], externalHref: "https://www.instagram.com/likeness.0/", theme: "cyan" },
+  { id: 2, title: "Branded Edits", thumb: "/twitter-x.jpg", tags: ["Brand", "Social"], externalHref: "https://www.instagram.com/likeness.0/", theme: "violet" },
+  { id: 3, title: "Music Videos", thumb: "/bg-2.jpg", tags: ["Music", "Cut"], externalHref: "https://www.instagram.com/likeness.0/", theme: "amber" },
 ];
 
 export default function ReelsCarousel() {
