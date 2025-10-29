@@ -36,15 +36,15 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "likeness",
   description: "Portfolio website for Video Editor Saksham Mahnot",
-  metadataBase: new URL("http://localhost"),
+  metadataBase: new URL("https://saksham0mahnot.github.io"), // or your deployed site URL
   openGraph: {
     title: "likeness",
     description: "Modern video editor portfolio by Saksham Mahnot",
-    url: "http://localhost",
+    url: "https://saksham0mahnot.github.io/portfolio",
     siteName: "likeness",
     images: [
       {
-        url: "7.jpg",
+        url: "https://saksham0mahnot.github.io/portfolio/img/profile.jpg",
         width: 1200,
         height: 630,
         alt: "Saksham Mahnot",
@@ -54,6 +54,8 @@ export const metadata: Metadata = {
     type: "website",
   },
 };
+
+
 export default function RootLayout({
   children,
 }: Readonly<{
