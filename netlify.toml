@@ -1,5 +1,4 @@
 [build]
-  base = "likeness"
   command = "npm install && npm run build"
   publish = ".next"
 
