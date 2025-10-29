@@ -18,9 +18,16 @@ export type Reel = {
 };
 
 const reels: Reel[] = [
-  { id: 1, title: "Cinematic Reel", thumb: "/visuals.png", tags: ["Reel", "Edit"], externalHref: "https://www.instagram.com/likeness.0/", theme: "cyan" },
-  { id: 2, title: "Branded Edits", thumb: "/twitter-x.jpg", tags: ["Brand", "Social"], externalHref: "https://www.instagram.com/likeness.0/", theme: "violet" },
-  { id: 3, title: "Music Videos", thumb: "/bg-2.jpg", tags: ["Music", "Cut"], externalHref: "https://www.instagram.com/likeness.0/", theme: "amber" },
+  { id: 1, title: "Cinematic Reel", thumb: "/4.jpg", tags: ["Reel", "Edit"], externalHref: "https://www.instagram.com/likeness.0/", theme: "cyan" },
+  { id: 2, title: "Branded Edits", thumb: "/5.jpg", tags: ["Brand", "Social"], externalHref: "https://www.instagram.com/likeness.0/", theme: "violet" },
+  { id: 3, title: "Music Videos", thumb: "/4.jpg", tags: ["Music", "Cut"], externalHref: "https://www.instagram.com/likeness.0/", theme: "amber" },
+  { id: 4, title: "Cinematic Reel", thumb: "/4.jpg", tags: ["Reel", "Edit"], externalHref: "https://www.instagram.com/likeness.0/", theme: "cyan" },
+  { id: 5, title: "Branded Edits", thumb: "/5.jpg", tags: ["Brand", "Social"], externalHref: "https://www.instagram.com/likeness.0/", theme: "violet" },
+  { id: 6, title: "Music Videos", thumb: "/4.jpg", tags: ["Music", "Cut"], externalHref: "https://www.instagram.com/likeness.0/", theme: "amber" },
+  { id: 7, title: "Cinematic Reel", thumb: "/4.jpg", tags: ["Reel", "Edit"], externalHref: "https://www.instagram.com/likeness.0/", theme: "cyan" },
+  { id: 8, title: "Branded Edits", thumb: "/5.jpg", tags: ["Brand", "Social"], externalHref: "https://www.instagram.com/likeness.0/", theme: "violet" },
+  { id: 9, title: "Music Videos", thumb: "/4.jpg", tags: ["Music", "Cut"], externalHref: "https://www.instagram.com/likeness.0/", theme: "amber" },
+
 ];
 
 export default function ReelsCarousel() {
