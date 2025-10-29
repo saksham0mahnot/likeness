@@ -26,7 +26,7 @@ export const metadata: Metadata = {
     url: "http://localhost",
     siteName: "likeness",
     images: [
-      { url="https://saksham0mahnot.github.io/portfolio/img/profile.jpg", width: 1200, height: 630, alt: "Saksham Mahnot" },
+      { url: "https://saksham0mahnot.github.io/portfolio/img/profile.jpg", width: 1200, height: 630, alt: "Saksham Mahnot" },
     ],
     locale: "en_US",
     type: "website",
