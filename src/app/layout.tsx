@@ -44,7 +44,7 @@ export const metadata: Metadata = {
     siteName: "likeness",
     images: [
       {
-        url: "https://saksham0mahnot.github.io/portfolio/img/profile.jpg",
+        url: "7.jpg",
         width: 1200,
         height: 630,
         alt: "Saksham Mahnot",
